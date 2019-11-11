@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "coachmicrofinance",
+    "description": "",
+    "home_page_url": "http://coachmicrofinance.netlify.com",
+    "feed_url": "http://coachmicrofinance.netlify.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Daniel Muriithi"
+    },
+    "items": [
+        {
+            "id": "http://coachmicrofinance.netlify.com/porefpc.html",
+            "url": "http://coachmicrofinance.netlify.com/porefpc.html",
+            "title": "POREFPC",
+            "summary": "poverty reduction food pure culture(Porefpc) ",
+            "content_html": "<p>poverty reduction food pure culture(Porefpc)</p>\n<p> </p>",
+            "author": {
+                "name": "Daniel Muriithi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-09T16:09:07-05:00",
+            "date_modified": "2019-11-09T16:09:07-05:00"
+        },
+        {
+            "id": "http://coachmicrofinance.netlify.com/value-chain-gap-cashewnut-industry.html",
+            "url": "http://coachmicrofinance.netlify.com/value-chain-gap-cashewnut-industry.html",
+            "title": "VALUE CHAIN GAP CASHEWNUT INDUSTRY",
+            "summary": "Cashew nut farmers in kenya faced a lot of challenge in marketing the law nut because the middlemen are are buying the nuts at a throw away prices.That lead us to research on cashew nut production in the world.Supplies and demand analysis.result was that demand&hellip;",
+            "content_html": "Cashew nut farmers in kenya faced a lot of challenge in marketing the law nut because  the middlemen are are buying the nuts at a throw away prices.That lead us to research on cashew nut production in the world.Supplies and demand analysis.result was that demand is very high and the suppies is very low.",
+            "author": {
+                "name": "Daniel Muriithi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-08T12:29:55-05:00",
+            "date_modified": "2019-11-08T13:17:34-05:00"
+        },
+        {
+            "id": "http://coachmicrofinance.netlify.com/coach-empowerment-enrichment-and-employement-program.html",
+            "url": "http://coachmicrofinance.netlify.com/coach-empowerment-enrichment-and-employement-program.html",
+            "title": " COACH EMPOWERMENT, ENRICHMENT AND EMPLOYMENT PROGRAM",
+            "summary": "Our vision:To be a leadind microfinance by empowering youth,women and people with dissability in job creation in rural/urban in africa. Our mission:To erradicate poverty in the community by unlocking the potential and ability in youth and women and use the local resources/human resource by encouranging&hellip;",
+            "content_html": "<p>Our vision:To be a leadind microfinance by empowering youth,women and people with dissability in job creation in rural/urban  in africa.</p>\n<p>Our mission:To erradicate poverty in the community by unlocking the potential and ability in youth and women and use the local resources/human resource by encouranging a culture of saving.</p>",
+            "author": {
+                "name": "Daniel Muriithi"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-08T11:29:04-05:00",
+            "date_modified": "2019-11-08T18:35:44-05:00"
+        }
+    ]
+}
